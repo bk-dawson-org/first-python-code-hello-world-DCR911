@@ -1,0 +1,12 @@
+print("DAMNdANDM")
+print(78-9)
+Age = 20
+print("my age is")
+print(Age)
+Age = input("What is your age ")
+print(Age)
+
+
+FirstName = input("Enter your first name")
+LastName = input("Enter your last name")
+print(FirstName + " " + LastName)
